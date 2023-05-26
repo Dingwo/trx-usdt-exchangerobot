@@ -14,7 +14,8 @@ trx-usdt-exchangerobot Trx-usdt自动兑换机器人
 4.）自动通知兑换成功的消息同步到群组
 
 **使用方法：**
-机器人地址：@TTKJTRXBOT 
+
+机器人地址：[@TTKJTRXBOT](https://t.me/TTKJTRXBOT)
 
 https://www.youtube.com/watch?v=DBBWa0-Hobg 
 
