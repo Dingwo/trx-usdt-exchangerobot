@@ -26,9 +26,6 @@ Telegram：[@lianwo ](https://t.me/lianwo)
 
 Telegram：[@dingwo ](https://t.me/dingwo)
 
-**源码截图：**
-
-![image](https://github.com/Dingwo/trx-usdt-exchangerobot/assets/134056073/3e95f3c4-cb5f-4b02-af6c-3341680351b0)
 
 **群组：**
 
@@ -37,3 +34,8 @@ Telegram：[@dingwo ](https://t.me/dingwo)
 频 道：[@sousuowo](https://t.me/sousuowo)  群 组：[@tianjiawo](https://t.me/tianjiawo)
 
 机器人：[@TianTianKJBot](https://t.me/TianTianKJBot)   官 网：https://52wzq.cc
+
+**源码截图：**
+
+![image](https://github.com/Dingwo/trx-usdt-exchangerobot/assets/134056073/3e95f3c4-cb5f-4b02-af6c-3341680351b0)
+
