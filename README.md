@@ -2,6 +2,12 @@
 
 trx-usdt-exchangerobot Trx-usdt自动兑换机器人
 
+**使用方法：**
+
+机器人地址：[@TTKJTRXBOT](https://t.me/TTKJTRXBOT)
+
+https://www.youtube.com/watch?v=DBBWa0-Hobg 
+
 
 **功能简介：**
 
@@ -12,12 +18,6 @@ trx-usdt-exchangerobot Trx-usdt自动兑换机器人
 3.）支持预支TRX能量 USDT入账出账地址提醒监控
 
 4.）自动通知兑换成功的消息同步到群组
-
-**使用方法：**
-
-机器人地址：[@TTKJTRXBOT](https://t.me/TTKJTRXBOT)
-
-https://www.youtube.com/watch?v=DBBWa0-Hobg 
 
 
 **私人定制：**
